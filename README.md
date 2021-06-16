@@ -1,2 +1,2 @@
 # SD-IAM
-SD-IAM
+Software Defined IAM (CIAM、EIAM)
